@@ -156,31 +156,31 @@ $one->l_side_scroll             = true;
             <div class="row items-push text-center push-50">
                 <div class="col-xs-4 col-md-2 visibility-hidden" data-toggle="appear" data-offset="-100" data-class="animated bounceIn">
                     <div class="item item-circle bg-white border push-10">
-                        <i class="si si-vector text-default"></i>
+                        <i class="fa fa-vector text-default"></i>
                     </div>
                     <div class="font-w600">Lightning Deals</div>
                 </div>
                 <div class="col-xs-4 col-md-2 visibility-hidden" data-toggle="appear" data-offset="-100" data-class="animated bounceIn" data-timeout="150">
                     <div class="item item-circle bg-white border push-10">
-                        <i class="si si-badge text-flat"></i>
+                        <i class="fa fa-badge text-flat"></i>
                     </div>
                     <div class="font-w600">Cadeaus</div>
                 </div>
                 <div class="col-xs-4 col-md-2 visibility-hidden" data-toggle="appear" data-offset="-100" data-class="animated bounceIn" data-timeout="300">
                     <div class="item item-circle bg-white border push-10">
-                        <i class="si si-chemistry text-smooth"></i>
+                        <i class="fa fa-chemistry text-smooth"></i>
                     </div>
                     <div class="font-w600">Steun ons</div>
                 </div>
                 <div class="col-xs-4 col-md-2 visibility-hidden" data-toggle="appear" data-offset="-100" data-class="animated bounceIn" data-timeout="450">
                     <div class="item item-circle bg-white border push-10">
-                        <i class="si si-heart text-city"></i>
+                        <i class="fa fa-heart text-city"></i>
                     </div>
                     <div class="font-w600"><3 DealLynx</div>
                 </div>
                 <div class="col-xs-4 col-md-2 visibility-hidden" data-toggle="appear" data-offset="-100" data-class="animated bounceIn" data-timeout="600">
                     <div class="item item-circle bg-white border push-10">
-                        <i class="si si-clock text-modern"></i>
+                        <i class="fa fa-clock text-modern"></i>
                     </div>
                     <div class="font-w600">Priority Support</div>
                 </div>
@@ -207,7 +207,7 @@ $one->l_side_scroll             = true;
             <div class="row items-push">
                 <div class="col-sm-6">
                     <h3 class="h5 font-w600 text-uppercase push-10"><i class="fa fa-check text-primary push-5-r"></i> Steun ons</h3>
-                    <p>We <i class="fa fa-heart text-danger push-5-r"></i> you, do you <i class="fa fa-heart text-danger push-5-r"></i> us? Door een LynxPlus lidmaatschap te kopen steun je ons enorm! Hoe dan? Zoals je mischien weet kost het hosten van een website enorm veel geld. Ook advertenties om de community in stand te houden kost geld. LynxPlus kopen doe je dus niet allen voor jezelf, maar ook voor ons :) </p>
+                    <p>We <i class="fa fa-heart text-danger push-5-r"></i>you, do you <i class="fa fa-heart text-danger push-5-r"></i>us? Door een LynxPlus lidmaatschap te kopen steun je ons enorm! Hoe dan? Zoals je mischien weet kost het hosten van een website enorm veel geld. Ook advertenties om de community in stand te houden kost geld. LynxPlus kopen doe je dus niet allen voor jezelf, maar ook voor ons :) </p>
                 </div>
                 <div class="col-sm-6">
                     <h3 class="h5 font-w600 text-uppercase push-10"><i class="fa fa-check text-primary push-5-r"></i> <3 DealLynx</h3>
