@@ -18,7 +18,7 @@ $one->l_side_scroll             = true;
         <section class="content content-full content-boxed overflow-hidden">
             <!-- Section Content --><br><br><br><br><br>
             <div class="push-100-t push-50 text-center">
-                <h1 class="h2 text-white push-10 visibility-hidden" data-toggle="appear" data-class="animated fadeInDown">Weledawerdawkom bij DealLynx</h1>
+                <h1 class="h2 text-white push-10 visibility-hidden" data-toggle="appear" data-class="animated fadeInDown">Welkom bij DealLynx</h1>
                 <h2 class="h5 text-white-op push-50 visibility-hidden" data-toggle="appear" data-class="animated fadeInDown">De Nederlandse aanbiedingen en kortingscodes website waarop de community de aanbiedingen zelf plaatst & beoordeeld!</h2>
                 <a class="btn btn-rounded btn-noborder btn-lg btn-primary visibility-hidden" data-toggle="appear" data-class="animated bounceIn" data-timeout="800" href="deals.php">Bekijk de Deals</a>
             </div><br><br><br><br><br>
