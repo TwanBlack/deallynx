@@ -45,16 +45,16 @@
                     </ul>
                 </div>
                 <div class="col-sm-4">
-                    <h3 class="h5 font-w600 text-uppercase push-20">Contact</h3>
+                    <h3 class="h5 font-w600 text-uppercase push-20">Social</h3>
                     <div class="font-s13 push list list-simple-mini font-s13">
                         <li>
-                            <a class="font-w600" href="frontend_contact.php">Twitter</a>
+                            <a class="font-w600" href="http://www.twitter.com/deallynx">Twitter</a>
                         </li>
                         <li>
-                            <a class="font-w600" href="frontend_home.php">Facebook</a>
+                            <a class="font-w600" href="http://www.facebook.com/deallynx">Facebook</a>
                         </li>
                         <li>
-                            <a class="font-w600" href="frontend_about.php">Instagram</a>
+                            <a class="font-w600" href="http://www.instagram.com/deallynx">Instagram</a>
                         </li>
                     </div>
                     <div class="font-s13">
@@ -71,7 +71,7 @@
                     KVK: 12345678 BTW: NL123456789B01
                 </div>
                 <div class="pull-left">
-                    <a class="font-w600" href="https://www.deallynx.net" target="_blank">DealLynx.net</a> &copy; 2017</span>
+                    &copy; 2017<a class="font-w600" href="https://www.deallynx.net" target="_blank"> DealLynx.net</a></span><p> Made with <i class="fa fa-heart"></i> by TheLynxCompany</p>
                 </div>
             </div>
             <!-- END Copyright Info -->
