@@ -219,7 +219,7 @@
                         <i class="fa fa-fw fa-star"></i>
                     </div>
                     <div class="h4 text-white-op push-5">Incredible value for money, highly recommended!</div>
-                    <div class="h6 text-gray">- <?php $one->get_name('female'); ?></div>
+                    <div class="h6 text-gray">- Toine Wehrens</div>
                 </div>
             </div>
             <!-- END Section Content -->
@@ -233,8 +233,8 @@
     <section class="content content-full content-boxed">
         <!-- Section Content -->
         <div class="push-20-t push-20 text-center">
-            <h3 class="h4 push-20 visibility-hidden" data-toggle="appear">Clean design in one powerful package. It was made for your next awesome project.</h3>
-            <a class="btn btn-rounded btn-noborder btn-lg btn-success visibility-hidden" data-toggle="appear" data-class="animated bounceIn" href="frontend_pricing.php">Get Started Today</a>
+            <h3 class="h4 push-20 visibility-hidden" data-toggle="appear">Klaar om een Lynx te worden? Kom, we gaan samen op koopjesjacht!</h3>
+            <a class="btn btn-rounded btn-noborder btn-lg btn-success visibility-hidden" data-toggle="appear" data-class="animated bounceIn" href="frontend_pricing.php">Meld je nu aan!</a>
         </div>
         <!-- END Section Content -->
     </section>

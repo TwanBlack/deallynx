@@ -20,17 +20,17 @@
                     <span class="caret"></span>
                 </button>
                 <ul class="dropdown-menu dropdown-menu-right">
-                    <li class="dropdown-header">Profile</li>
+                    <li class="dropdown-header">Account</li>
                     <li>
                         <a tabindex="-1" href="base_pages_inbox.php">
                             <i class="si si-envelope-open pull-right"></i>
-                            <span class="badge badge-primary pull-right">3</span>Inbox
+                            <span class="badge badge-primary pull-right">3</span>Berichten
                         </a>
                     </li>
                     <li>
                         <a tabindex="-1" href="base_pages_profile.php">
                             <i class="si si-user pull-right"></i>
-                            <span class="badge badge-success pull-right">1</span>Profile
+                            <span class="badge badge-success pull-right">1</span>Profiel
                         </a>
                     </li>
                     <li>

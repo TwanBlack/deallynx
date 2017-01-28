@@ -1,4 +1,13 @@
 <?php require 'inc/config.php'; require 'inc/frontend_config.php'; ?>
+<?php
+// Specific Page Options
+$one->inc_sidebar               = false;
+$one->inc_header                = 'frontend_header_navigation.php';
+$one->l_sidebar_mini            = false;
+$one->l_sidebar_position        = false;
+$one->l_sidebar_visible_desktop = false;
+$one->l_side_scroll             = true;
+?>
 <?php require 'inc/views/template_head_start.php'; ?>
 <?php require 'inc/views/template_head_end.php'; ?>
 <?php require 'inc/views/frontend_head.php'; ?>
