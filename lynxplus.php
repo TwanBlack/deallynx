@@ -18,7 +18,7 @@ $one->l_side_scroll             = true;
         <!-- Section Content -->
         <div class="push-100-t push-50 text-center">
             <h1 class="h2 text-white push-10 visibility-hidden" data-toggle="appear" data-class="animated fadeInDown">DealLynx LynxPlus Membership</h1>
-            <h2 class="h5 text-white-op visibility-hidden" data-toggle="appear" data-class="animated fadeInDown">Choose the one that fits you best and start building your web application today.</h2>
+            <h2 class="h5 text-white-op visibility-hidden" data-toggle="appear" data-class="animated fadeInDown">Upgrade nu naar LynxPlus en krijg maandelijkse cadeaus, kortingen en meer!</h2>
         </div>
         <!-- END Section Content -->
     </section>
@@ -147,21 +147,8 @@ $one->l_side_scroll             = true;
 </div>
 <!-- END Pricing -->
 
-<!-- Get Started -->
-<div class="bg-gray-lighter">
-    <section class="content content-full content-boxed">
-        <!-- Section Content -->
-        <div class="push-20-t push-20 text-center">
-            <h3 class="h4 push-20 visibility-hidden" data-toggle="appear">Imagine the next great thing. Then build it.</h3>
-            <a class="btn btn-rounded btn-noborder btn-lg btn-success visibility-hidden" data-toggle="appear" data-class="animated bounceIn" href="frontend_pricing.php">Get Started Today</a>
-        </div>
-        <!-- END Section Content -->
-    </section>
-</div>
-<!-- END Get Started -->
-
 <!-- Features -->
-<div class="bg-white">
+<div class="bg-gray-lighter">
     <section class="content content-full content-boxed">
         <!-- Section Content -->
         <div class="push-20-t push-20 nice-copy">
@@ -171,37 +158,37 @@ $one->l_side_scroll             = true;
                     <div class="item item-circle bg-white border push-10">
                         <i class="si si-vector text-default"></i>
                     </div>
-                    <div class="font-w600">Design</div>
+                    <div class="font-w600">Lightning Deals</div>
                 </div>
                 <div class="col-xs-4 col-md-2 visibility-hidden" data-toggle="appear" data-offset="-100" data-class="animated bounceIn" data-timeout="150">
                     <div class="item item-circle bg-white border push-10">
                         <i class="si si-badge text-flat"></i>
                     </div>
-                    <div class="font-w600">Quality</div>
+                    <div class="font-w600">Cadeaus</div>
                 </div>
                 <div class="col-xs-4 col-md-2 visibility-hidden" data-toggle="appear" data-offset="-100" data-class="animated bounceIn" data-timeout="300">
                     <div class="item item-circle bg-white border push-10">
                         <i class="si si-chemistry text-smooth"></i>
                     </div>
-                    <div class="font-w600">Creativity</div>
+                    <div class="font-w600">Steun ons</div>
                 </div>
                 <div class="col-xs-4 col-md-2 visibility-hidden" data-toggle="appear" data-offset="-100" data-class="animated bounceIn" data-timeout="450">
                     <div class="item item-circle bg-white border push-10">
                         <i class="si si-heart text-city"></i>
                     </div>
-                    <div class="font-w600">Passion</div>
+                    <div class="font-w600"><3 DealLynx</div>
                 </div>
                 <div class="col-xs-4 col-md-2 visibility-hidden" data-toggle="appear" data-offset="-100" data-class="animated bounceIn" data-timeout="600">
                     <div class="item item-circle bg-white border push-10">
                         <i class="si si-clock text-modern"></i>
                     </div>
-                    <div class="font-w600">Time</div>
+                    <div class="font-w600">Priority Support</div>
                 </div>
                 <div class="col-xs-4 col-md-2 visibility-hidden" data-toggle="appear" data-offset="-100" data-class="animated bounceIn" data-timeout="750">
                     <div class="item item-circle bg-white border push-10">
-                        <i class="si si-drop text-warning"></i>
+                        <i class="fa fa-trophy text-warning"></i>
                     </div>
-                    <div class="font-w600">Colors</div>
+                    <div class="font-w600">Badges</div>
                 </div>
             </div>
             <!-- END Circle Mini Features -->
@@ -209,32 +196,32 @@ $one->l_side_scroll             = true;
             <!-- Feature List -->
             <div class="row items-push">
                 <div class="col-sm-6">
-                    <h3 class="h5 font-w600 text-uppercase push-10"><i class="fa fa-check text-primary push-5-r"></i> Support</h3>
-                    <?php $one->get_text('small'); ?>
+                    <h3 class="h5 font-w600 text-uppercase push-10"><i class="fa fa-check text-primary push-5-r"></i> Lightning Deals</h3>
+                    <p>Je kent ze vast wel, de lightnings deals van Amazon. Nee? Okay komt ie! Amazon Lightning Deals zijn de tijdelijke deals van Amazon. Met deze deals krijg je enorme kortingen op allemaal verschillende soorten producten voor maar een paar minuten! Met onze speciale Lightning Deals krijg je een overzicht met alle momentele en opkomende Amazon Lightning Deals.</p>
                 </div>
                 <div class="col-sm-6">
-                    <h3 class="h5 font-w600 text-uppercase push-10"><i class="fa fa-check text-primary push-5-r"></i> Rich Features</h3>
-                    <?php $one->get_text('small'); ?>
-                </div>
-            </div>
-            <div class="row items-push">
-                <div class="col-sm-6">
-                    <h3 class="h5 font-w600 text-uppercase push-10"><i class="fa fa-check text-primary push-5-r"></i> Updates</h3>
-                    <?php $one->get_text('small'); ?>
-                </div>
-                <div class="col-sm-6">
-                    <h3 class="h5 font-w600 text-uppercase push-10"><i class="fa fa-check text-primary push-5-r"></i> Services</h3>
-                    <?php $one->get_text('small'); ?>
+                    <h3 class="h5 font-w600 text-uppercase push-10"><i class="fa fa-check text-primary push-5-r"></i> Cadeaus</h3>
+                    <p>Cadeaus?! Ja! DealLynx word gesponsord door GearBest, Lightinthebox, Miniinthebox en Banggood. Gratis leden van DealLynx kunnen ook gratis producten en kortingen krijgen maar als LynxPlus lid ben je er van verzekerd om elke 15e van de maand een GRATIS cadeau te ontvangen! Dit kunnen gratis kortingsbonnen zijn maar ook gratis producten zoals Powerbanks, lampen, camera's, sportbandjes, drones, kleding en meer!</p> 
                 </div>
             </div>
             <div class="row items-push">
                 <div class="col-sm-6">
-                    <h3 class="h5 font-w600 text-uppercase push-10"><i class="fa fa-check text-primary push-5-r"></i> Versions</h3>
-                    <?php $one->get_text('small'); ?>
+                    <h3 class="h5 font-w600 text-uppercase push-10"><i class="fa fa-check text-primary push-5-r"></i> Steun ons</h3>
+                    <p>We <i class="fa fa-heart text-danger push-5-r"> you, do you <i class="fa fa-heart text-danger push-5-r"> us? Door een LynxPlus lidmaatschap te kopen steun je ons enorm! Hoe dan? Zoals je mischien weet kost het hosten van een website enorm veel geld. Ook advertenties om de community in stand te houden kost geld. LynxPlus kopen doe je dus niet allen voor jezelf, maar ook voor ons :) </p>
                 </div>
                 <div class="col-sm-6">
-                    <h3 class="h5 font-w600 text-uppercase push-10"><i class="fa fa-check text-primary push-5-r"></i> Applications</h3>
-                    <?php $one->get_text('small'); ?>
+                    <h3 class="h5 font-w600 text-uppercase push-10"><i class="fa fa-check text-primary push-5-r"></i> <3 DealLynx</h3>
+                    <p>DealLynx geeft je liefde.</p>
+                </div>
+            </div>
+            <div class="row items-push">
+                <div class="col-sm-6">
+                    <h3 class="h5 font-w600 text-uppercase push-10"><i class="fa fa-check text-primary push-5-r"></i> Priority Support</h3>
+                    <p>Bah, 2 dagen wachten voordat je een bericht terug krijgt op die belangrijke vraag... Met DealLynx Priority Support verzeker je je ervan dat je antwoord van ons krijgt in minder dan 6 uur (Als wij op dat moment niet slapen :P).
+                </div>
+                <div class="col-sm-6">
+                    <h3 class="h5 font-w600 text-uppercase push-10"><i class="fa fa-check text-primary push-5-r"></i> Badges</h3>
+                    <p>Wow, dat zijn mooie badges! Unlock speciale LynxPlus only badges en laat ze shinen op je unieke profiel!</p>
                 </div>
             </div>
             <!-- END Feature List -->
@@ -251,16 +238,16 @@ $one->l_side_scroll             = true;
             <!-- Section Content -->
             <div class="row items-push push-20-t push-20 text-center">
                 <div class="col-sm-4">
-                    <div class="h1 text-white push-5" data-toggle="countTo" data-to="15760" data-after="+"></div>
-                    <div class="font-w600 text-uppercase text-white-op">Accounts Today</div>
+                    <div class="h1 text-white push-5" data-toggle="countTo" data-to="420" data-after="+"></div>
+                    <div class="font-w600 text-uppercase text-white-op">Geregistreerde leden</div>
                 </div>
                 <div class="col-sm-4">
-                    <div class="h1 text-white push-5" data-toggle="countTo" data-to="3890" data-after="+"></div>
-                    <div class="font-w600 text-uppercase text-white-op">Products</div>
+                    <div class="h1 text-white push-5" data-toggle="countTo" data-to="420" data-after="+"></div>
+                    <div class="font-w600 text-uppercase text-white-op">Aanbiedingen geplaatst</div>
                 </div>
                 <div class="col-sm-4">
-                    <div class="h1 text-white push-5" data-toggle="countTo" data-to="890" data-after="+"></div>
-                    <div class="font-w600 text-uppercase text-white-op">Web Apps</div>
+                    <div class="h1 text-white push-5" data-toggle="countTo" data-to="420" data-after="+"></div>
+                    <div class="font-w600 text-uppercase text-white-op">Reacties geplaatst</div>
                 </div>
             </div>
             <!-- END Section Content -->
