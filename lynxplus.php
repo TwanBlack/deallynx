@@ -207,7 +207,7 @@ $one->l_side_scroll             = true;
             <div class="row items-push">
                 <div class="col-sm-6">
                     <h3 class="h5 font-w600 text-uppercase push-10"><i class="fa fa-check text-primary push-5-r"></i> Steun ons</h3>
-                    <p>We <i class="fa fa-heart text-danger push-5-r"> you, do you <i class="fa fa-heart text-danger push-5-r"> us? Door een LynxPlus lidmaatschap te kopen steun je ons enorm! Hoe dan? Zoals je mischien weet kost het hosten van een website enorm veel geld. Ook advertenties om de community in stand te houden kost geld. LynxPlus kopen doe je dus niet allen voor jezelf, maar ook voor ons :) </p>
+                    <p>We <i class="fa fa-heart text-danger push-5-r"></i> you, do you <i class="fa fa-heart text-danger push-5-r"></i> us? Door een LynxPlus lidmaatschap te kopen steun je ons enorm! Hoe dan? Zoals je mischien weet kost het hosten van een website enorm veel geld. Ook advertenties om de community in stand te houden kost geld. LynxPlus kopen doe je dus niet allen voor jezelf, maar ook voor ons :) </p>
                 </div>
                 <div class="col-sm-6">
                     <h3 class="h5 font-w600 text-uppercase push-10"><i class="fa fa-check text-primary push-5-r"></i> <3 DealLynx</h3>
