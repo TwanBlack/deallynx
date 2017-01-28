@@ -17,7 +17,7 @@ $one->l_side_scroll             = true;
     <section class="content content-full content-boxed">
         <!-- Section Content -->
         <div class="push-100-t push-50 text-center">
-            <h1 class="h2 text-white push-10 visibility-hidden" data-toggle="appear" data-class="animated fadeInDown">Super flexible plans just for you.</h1>
+            <h1 class="h2 text-white push-10 visibility-hidden" data-toggle="appear" data-class="animated fadeInDown">DealLynx LynxPlus Membership</h1>
             <h2 class="h5 text-white-op visibility-hidden" data-toggle="appear" data-class="animated fadeInDown">Choose the one that fits you best and start building your web application today.</h2>
         </div>
         <!-- END Section Content -->
