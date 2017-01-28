@@ -156,19 +156,19 @@ $one->l_side_scroll             = true;
             <div class="row items-push text-center push-50">
                 <div class="col-xs-4 col-md-2 visibility-hidden" data-toggle="appear" data-offset="-100" data-class="animated bounceIn">
                     <div class="item item-circle bg-white border push-10">
-                        <i class="fa fa-vector text-default"></i>
+                        <i class="fa fa-bolt text-default"></i>
                     </div>
                     <div class="font-w600">Lightning Deals</div>
                 </div>
                 <div class="col-xs-4 col-md-2 visibility-hidden" data-toggle="appear" data-offset="-100" data-class="animated bounceIn" data-timeout="150">
                     <div class="item item-circle bg-white border push-10">
-                        <i class="fa fa-badge text-flat"></i>
+                        <i class="fa fa-gift  text-flat"></i>
                     </div>
                     <div class="font-w600">Cadeaus</div>
                 </div>
                 <div class="col-xs-4 col-md-2 visibility-hidden" data-toggle="appear" data-offset="-100" data-class="animated bounceIn" data-timeout="300">
                     <div class="item item-circle bg-white border push-10">
-                        <i class="fa fa-chemistry text-smooth"></i>
+                        <i class="fa fa-life-ring text-smooth"></i>
                     </div>
                     <div class="font-w600">Steun ons</div>
                 </div>
@@ -180,7 +180,7 @@ $one->l_side_scroll             = true;
                 </div>
                 <div class="col-xs-4 col-md-2 visibility-hidden" data-toggle="appear" data-offset="-100" data-class="animated bounceIn" data-timeout="600">
                     <div class="item item-circle bg-white border push-10">
-                        <i class="fa fa-clock text-modern"></i>
+                        <i class="fa fa-clock-o text-modern"></i>
                     </div>
                     <div class="font-w600">Priority Support</div>
                 </div>
