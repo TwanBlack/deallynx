@@ -71,7 +71,7 @@
                     KVK: 12345678 BTW: NL123456789B01
                 </div>
                 <div class="pull-left">
-                    &copy; 2017<a class="font-w600" href="https://www.deallynx.net" target="_blank"> DealLynx.net</a></span><p> Made with <i class="fa fa-heart"></i> by TheLynxCompany</p>
+                    &copy; 2017<a class="font-w600" href="https://www.deallynx.net" target="_blank"> DealLynx.net</a></span><p> Made with <i class="fa fa-heart text-danger push-5-r"></i>by TheLynxCompany</p>
                 </div>
             </div>
             <!-- END Copyright Info -->
